@@ -25,3 +25,4 @@ To explore whether and how gender bias manifests in Norwegian and multilingual L
 ### Project Structure
 
 - `master_LLM_DT.ipynb`: Main notebook with the complete pipeline
+- `decision_trees`: Folder of PDF extracted illustrations of the Decision Trees
